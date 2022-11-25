@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<files>
+    <file>
+        <id>1</id>
+        <student>
+            <first-name>Ivan</first-name>
+            <second-name>Ivanov</second-name>
+        </student>
+        <progress>
+            <math>5</math>
+            <english>4</english>
+            <geography>4</geography>
+            <physics>5</physics>
+            <literature>4</literature>
+        </progress>
+    </file>
+    <file>
+        <id>2</id>
+        <student>
+            <first-name>Petr</first-name>
+            <second-name>Petrov</second-name>
+        </student>
+        <progress>
+            <math>5</math>
+            <english>4</english>
+            <geography>4</geography>
+            <physics>5</physics>
+            <literature>4</literature>
+        </progress>
+    </file>
+</files>

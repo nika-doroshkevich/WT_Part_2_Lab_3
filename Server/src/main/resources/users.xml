@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<user>
+    <user>
+        <username>admin</username>
+        <password>[44, 63, -8, 59, -123, -110, -36, 43, 20, -3, 103, -64, -67, -111, -56, 112]</password>
+        <user-role>Administrator</user-role>
+    </user>
+    <user>
+        <username>user</username>
+        <password>[-61, 104, -12, -110, 11, -52, -22, -46, 116, 1, -76, 85, 13, -103, 102, 51]</password>
+        <user-role>User</user-role>
+    </user>
+</user>
